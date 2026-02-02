@@ -1,3 +1,5 @@
+## **Next-Word-Prediction-LSTM**
+
 Before using this project, ensure you have the following prerequisites in place:
 
 * Python (**3.11**)
